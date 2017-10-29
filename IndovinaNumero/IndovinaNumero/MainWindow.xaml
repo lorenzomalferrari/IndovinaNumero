@@ -1,0 +1,33 @@
+﻿<Window x:Class="IndovinaNumero.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IndovinaNumero"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="btInizia" Content="Inizia" HorizontalAlignment="Left" Margin="190,85,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.23,-1.29" Click="btInizia_Click"/>
+        <Button x:Name="btGioca" Content="Gioca" HorizontalAlignment="Left" Margin="324,183,0,0" VerticalAlignment="Top" Width="101" Click="btGioca_Click"/>
+        <RadioButton x:Name="rbFacile" Content="Facile" HorizontalAlignment="Left" Margin="44,64,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbIntermedio" Content="Intermedio" HorizontalAlignment="Left" Margin="44,85,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbDifficile" Content="Difficile" HorizontalAlignment="Left" Margin="43,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+            <RadioButton.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.708"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </RadioButton.RenderTransform>
+        </RadioButton>
+        <TextBox x:Name="tbxNumero" HorizontalAlignment="Left" Height="23" Margin="145,183,0,0" TextWrapping="Wrap" Text="Numero" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="lbInserireNumero" Content="Inserire numero:" HorizontalAlignment="Left" Margin="44,181,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbTentativiADisp" Content="Tentativi a disposizione" HorizontalAlignment="Left" Margin="292,221,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbTentativi" Content="20" HorizontalAlignment="Left" Margin="430,221,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.469,1.971"/>
+        <ProgressBar x:Name="pbTentativi" HorizontalAlignment="Left" Height="12" Margin="44,227,0,0" VerticalAlignment="Top" Width="221"/>
+        <Label x:Name="lbTesto" Content="" HorizontalAlignment="Left" Margin="44,10,0,0" VerticalAlignment="Top" Width="409"/>
+        <Label x:Name="lbNumeroPrecedente" Content="" HorizontalAlignment="Left" Margin="44,244,0,0" VerticalAlignment="Top" Width="242"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.csprojResolveAssemblyReference.cache
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\MainWindow.g.cs
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\App.g.cs
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero_MarkupCompile.cache
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero_MarkupCompile.lref
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\bin\Debug\IndovinaNumero.exe.config
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\bin\Debug\IndovinaNumero.exe
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\bin\Debug\IndovinaNumero.pdb
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\MainWindow.baml
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.g.resources
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.Properties.Resources.resources
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.csproj.GenerateResource.Cache
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.exe
+C:\Users\Lorenzo_informatica\Desktop\IndovinaNumeroMalfe\IndovinaNumero\IndovinaNumero\obj\Debug\IndovinaNumero.pdb
